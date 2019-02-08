@@ -1,0 +1,7 @@
+organization=parvin2018-github
+projectKey=Parvin2018-Pet-project-Sang-Kaghaz-game-
+serverUrl=https://sonarcloud.io
+serverVersion=7.7.0.21686
+dashboardUrl=https://sonarcloud.io/dashboard?id=Parvin2018-Pet-project-Sang-Kaghaz-game-
+ceTaskId=AWjO38G-QWLpf-ji8e6a
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWjO38G-QWLpf-ji8e6a
