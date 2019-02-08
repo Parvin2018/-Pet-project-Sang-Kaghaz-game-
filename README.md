@@ -1,5 +1,5 @@
 # -Pet-project-Sang-Kaghaz-game-
-# test-stuff
+
 
 ![TravisCI](https://travis-ci.org/irzref/test-stuff.svg?branch=master) 
 ![SonarCloud](https://sonarcloud.io/api/project_badges/measure?project=irzref_test-stuff&metric=alert_status)
@@ -16,16 +16,16 @@ python main.py
 
 ### Metrics
 
-Overview [Sonarcloud](https://sonarcloud.io/dashboard?id=irzref_test-stuff).
+Overview [Sonarcloud](https://sonarcloud.io/dashboard?id=Parvin2018-Pet-project-Sang-Kaghaz-game-).
 
-![CodeSmells](https://sonarcloud.io/api/project_badges/measure?project=irzref_test-stuff&metric=code_smells)
+![CodeSmells](https://sonarcloud.io/api/project_badges/measure?project=Parvin2018-Pet-project-Sang-Kaghaz-game-&metric=code_smells)
 
-![DuplicatedLines](https://sonarcloud.io/api/project_badges/measure?project=irzref_test-stuff&metric=duplicated_lines_density)
+![DuplicatedLines](https://sonarcloud.io/api/project_badges/measure?project=Parvin2018-Pet-project-Sang-Kaghaz-game-&metric=duplicated_lines_density)
 
-![Maintainability](https://sonarcloud.io/api/project_badges/measure?project=irzref_test-stuff&metric=sqale_rating)
+![Maintainability](https://sonarcloud.io/api/project_badges/measure?project=Parvin2018-Pet-project-Sang-Kaghaz-game-&metric=sqale_rating)
 
-![Reliability](https://sonarcloud.io/api/project_badges/measure?project=irzref_test-stuff&metric=reliability_rating)
+![Reliability](https://sonarcloud.io/api/project_badges/measure?project=Parvin2018-Pet-project-Sang-Kaghaz-game-&metric=reliability_rating)
 
-![Security](https://sonarcloud.io/api/project_badges/measure?project=irzref_test-stuff&metric=security_rating)
+![Security](https://sonarcloud.io/api/project_badges/measure?project=Parvin2018-Pet-project-Sang-Kaghaz-game-&metric=security_rating)
 
-![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=irzref_test-stuff&metric=vulnerabilities)
+![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Parvin2018-Pet-project-Sang-Kaghaz-game-&metric=vulnerabilities)
