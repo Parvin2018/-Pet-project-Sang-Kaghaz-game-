@@ -1,8 +1,8 @@
 # -Pet-project-Sang-Kaghaz-game-
 
 
-![TravisCI](https://travis-ci.org/irzref/test-stuff.svg?branch=master) 
-![SonarCloud](https://sonarcloud.io/api/project_badges/measure?project=irzref_test-stuff&metric=alert_status)
+![TravisCI](https://travis-ci.com/Parvin2018/-Pet-project-Sang-Kaghaz-game-.svg?branch=master) 
+![SonarCloud](https://sonarcloud.io/api/project_badges/measure?project=Parvin2018-Pet-project-Sang-Kaghaz-game-&metric=alert_status)
 
 ### Prerequisites
 
